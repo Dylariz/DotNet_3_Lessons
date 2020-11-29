@@ -1,7 +1,0 @@
-C:\Users\zarec\Documents\GitHub\DotNet_3_Lessons\Lesson 29.11.2020\bin\Debug\Lesson 29.11.2020.exe.config
-C:\Users\zarec\Documents\GitHub\DotNet_3_Lessons\Lesson 29.11.2020\bin\Debug\Lesson 29.11.2020.exe
-C:\Users\zarec\Documents\GitHub\DotNet_3_Lessons\Lesson 29.11.2020\bin\Debug\Lesson 29.11.2020.pdb
-C:\Users\zarec\Documents\GitHub\DotNet_3_Lessons\Lesson 29.11.2020\obj\Debug\Lesson 29.11.2020.csprojAssemblyReference.cache
-C:\Users\zarec\Documents\GitHub\DotNet_3_Lessons\Lesson 29.11.2020\obj\Debug\Lesson 29.11.2020.csproj.CoreCompileInputs.cache
-C:\Users\zarec\Documents\GitHub\DotNet_3_Lessons\Lesson 29.11.2020\obj\Debug\Lesson 29.11.2020.exe
-C:\Users\zarec\Documents\GitHub\DotNet_3_Lessons\Lesson 29.11.2020\obj\Debug\Lesson 29.11.2020.pdb
